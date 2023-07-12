@@ -1,0 +1,20 @@
+.component4-container {
+  display: flex;
+  position: relative;
+}
+.component4-image {
+  width: 600px;
+  height: 600px;
+  position: relative;
+  object-fit: cover;
+}
+.component4-root-class-name {
+  top: 224px;
+  left: 212px;
+  position: absolute;
+}
+.component4-root-class-name1 {
+  top: 224px;
+  left: 212px;
+  position: absolute;
+}

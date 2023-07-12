@@ -1,0 +1,72 @@
+.component-container {
+  width: 166.34375px;
+  height: 54px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.component-navlink {
+  display: contents;
+}
+.component-icon {
+  top: 0px;
+  left: 0px;
+  width: 53px;
+  height: 54px;
+  position: absolute;
+  text-decoration: none;
+}
+.component-navlink1 {
+  top: 11px;
+  left: 59px;
+  color: var(--dl-color-gray-black);
+  position: absolute;
+  font-size: 28px;
+  font-style: normal;
+  font-family: Fira Sans;
+  font-weight: 800;
+  text-transform: lowercase;
+  text-decoration: none;
+}
+.component-root-class-name {
+  top: 23px;
+  left: 46px;
+  position: absolute;
+}
+.component-root-class-name1 {
+  top: 23px;
+  left: 46px;
+  position: absolute;
+}
+.component-root-class-name2 {
+  top: 23px;
+  left: 46px;
+  position: absolute;
+}
+.component-root-class-name3 {
+  top: 23px;
+  left: 46px;
+  position: absolute;
+}
+.component-root-class-name4 {
+  top: 23px;
+  left: 46px;
+  position: absolute;
+}
+.component-root-class-name5 {
+  top: 23px;
+  left: 46px;
+  position: absolute;
+}
+.component-root-class-name6 {
+  top: 23px;
+  left: 46px;
+  position: absolute;
+}
+.component-root-class-name7 {
+  top: 23px;
+  left: 46px;
+  position: absolute;
+}

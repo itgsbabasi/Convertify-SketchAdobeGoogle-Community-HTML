@@ -1,0 +1,36 @@
+.component2-container {
+  width: 111.125px;
+  height: 37.796875px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.component2-text {
+  top: 1px;
+  left: 34px;
+  position: absolute;
+}
+.component2-icon {
+  top: 0px;
+  left: 0px;
+  width: 36px;
+  height: 36px;
+  position: absolute;
+}
+.component2-root-class-name {
+  top: 131px;
+  left: 139px;
+  position: absolute;
+}
+.component2-root-class-name1 {
+  top: 131px;
+  left: 139px;
+  position: absolute;
+}
+.component2-root-class-name2 {
+  top: 131px;
+  left: 139px;
+  position: absolute;
+}

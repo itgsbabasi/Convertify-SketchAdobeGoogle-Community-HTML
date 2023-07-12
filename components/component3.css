@@ -1,0 +1,20 @@
+.component3-container {
+  display: flex;
+  position: relative;
+}
+.component3-image {
+  width: 600px;
+  height: 600px;
+  position: relative;
+  object-fit: cover;
+}
+.component3-root-class-name {
+  top: 224px;
+  left: 1189px;
+  position: absolute;
+}
+.component3-root-class-name1 {
+  top: 224px;
+  left: 1189px;
+  position: absolute;
+}
